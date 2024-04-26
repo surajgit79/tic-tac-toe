@@ -1,5 +1,9 @@
+/*
+  3X3 tic-tac-toe using C
+  By-Suraj Gupta
+  Created November 11,2023
+*/
 #include <stdio.h>
-
 void displayBoard(char board[3][3])
 {
     printf("  1 2 3\n");
